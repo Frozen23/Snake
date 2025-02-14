@@ -1,0 +1,3 @@
+D:/C++/Programy/Snake/cmake-build-debug/CMakeFiles/NEWSNAKE.dir
+D:/C++/Programy/Snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Programy/Snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
